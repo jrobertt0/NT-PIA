@@ -1,0 +1,9 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/jrobertt0/PIA-Backend.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/jrobertt0/PIA-Frontend.git
+[submodule "Python"]
+	path = Python
+	url = https://github.com/jrobertt0/py-scrapper.git
